@@ -1,6 +1,6 @@
 # MODI SFlash — PS5 NOR Backup & NOR Dumper
 
-![MODI SFlash — NORBIOS and PS5 NOR backup to USB](assets/cover-norbios.jpg)
+![MODI SFlash — NOR / BIOS and PS5 NOR backup to USB](assets/cover-nor-bios.jpg)
 
 **PS5 NOR dump and SFlash backup for jailbroken PlayStation 5 consoles.**
 
